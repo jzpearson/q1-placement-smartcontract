@@ -6,6 +6,7 @@ Smart contract and project plan for q1 placement
 Explanation of files and functions
 
 .env
+
 The environment variables needed for this are:
 
 API_URL  = this is the app URL from your alchemy project
