@@ -12,6 +12,7 @@ PUBLIC_KEY = this is your public metamask key
 NFT_STORAGE_API_KEY = this is your api key for nft.storage that you must create
 
 mint-nft.mjs
+
 This file holds a function that uploads the image to the IPFS via NFT.storage and mints the NFT with an ERC-721 smart contract. It uses all the environment variables. Run the file with the second argument being the location of the image that you want to mint. Update contractAddress to be your contract address obtained from deploying smart contract.
 
 hardhat.config.js
