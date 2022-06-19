@@ -7,9 +7,13 @@ Explanation of files and functions
 
 .env
 The environment variables needed for this are:
+
 API_URL  = this is the app URL from your alchemy project
+
 PRIVATE_KEY = this is your private metamask key
+
 PUBLIC_KEY = this is your public metamask key
+
 NFT_STORAGE_API_KEY = this is your api key for nft.storage that you must create
 
 
