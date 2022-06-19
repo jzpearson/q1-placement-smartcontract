@@ -1,7 +1,7 @@
 # q1-placement-smartcontract
 Smart contract and project plan for q1 placement
 
-================================================================================================
+===========================================
 Explanation of files and functions
 
 .env
@@ -26,7 +26,7 @@ Deploys the smart contract in contracts folder
 Scripts/mint-nft-json-ready
 Mints NFTs if the file is already on the IPFS
 
-================================================================================================
+===========================================
 Packages used
 
 Hardhat
